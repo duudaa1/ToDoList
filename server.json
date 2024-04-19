@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "d059",
+      "name": "Atividade 1 ",
+      "description": "Organizar backlog do projeto",
+      "status": "done"
+    },
+    {
+      "id": "7015",
+      "name": "Atividade 2",
+      "description": "Protótipo de alta fidelidade",
+      "status": "done"
+    },
+    {
+      "id": "d696",
+      "name": "Atividade 3",
+      "description": "Desenvolvimento Typescript",
+      "status": "doing"
+    },
+    {
+      "id": "acdd",
+      "name": "Atividade 4",
+      "description": "Publicação no Vercel",
+      "status": "todo"
+    }
+  ]
+}
